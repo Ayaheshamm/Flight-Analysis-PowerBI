@@ -12,11 +12,14 @@ By analyzing over **166 million minutes of delay**, the dashboard pinpoints oper
 
 ## 🛠️ Key Technical Challenges & Solutions
 
-* **Integer-to-Time Transformation:** * **Challenge:** Time data was stored as integers (e.g., `2205` instead of `22:05`), which prevented time-intelligence analysis.
+* **Integer-to-Time Transformation:**
+    * **Challenge:** Time data was stored as integers (e.g., `2205` instead of `22:05`), which prevented time-intelligence analysis.
     * **Solution:** Divided values by 100 and applied data type transformations to convert them into standard Time formats for accurate calculation.
-* **Engineering a Relational Schema:** * **Challenge:** The dataset lacked foreign keys to connect the Fact table with Dimensions.
+* **Engineering a Relational Schema:**
+    * **Challenge:** The dataset lacked foreign keys to connect the Fact table with Dimensions.
     * **Solution:** Generated unique **Index Columns** in Dimension tables and performed **Merges** (Left Outer Joins) to establish a clean Star Schema.
-* **Data Optimization:** * **Challenge:** Large volume of nulls and high-cardinality columns.
+* **Data Optimization:**
+    * **Challenge:** Large volume of nulls and high-cardinality columns.
     * **Solution:** Replaced nulls with "Unknown" categories and removed unnecessary columns to optimize report performance and responsiveness.
 
 ---
