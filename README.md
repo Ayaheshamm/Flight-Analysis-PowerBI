@@ -57,8 +57,3 @@ I developed custom DAX measures to provide granular performance benchmarks:
 
 ### 💡 Contact & Connect
 **Aya Hesham** [https://www.linkedin.com/in/aya-hesham-muhamad/] | [ayaheshamm2002@gmail.com]
-
-
-2.  Name it `README.md`.
-3.  Paste the text above.
-4.  **Important:** Don't forget to upload those screenshots you showed me into the repo so the recruiter can see the "Airports" and "Airline Delay Type" pages immediately!
