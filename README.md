@@ -1,5 +1,6 @@
 # ✈️ 2008 Flights Performance & Delay Analysis
 **A Comprehensive Power BI Data Engineering & Analytics Project**
+**Dashboard video:** Check https://surl.li/zyinfd
 
 ## 📌 Project Overview
 This project transforms a massive dataset of **2.3 million flight records** into an interactive decision-making tool. 
@@ -53,7 +54,6 @@ I developed custom DAX measures to provide granular performance benchmarks:
 ## 📁 How to Use This Repo
 1.  **View Screenshots:** Check the `/Screenshots` folder for a quick visual overview of the 6-page report.
 2.  **Open the Report:** Download `Flight_Performance.pbix` to inspect the DAX measures and data model in Power BI Desktop.
-3.  **View the video:** Check https://surl.li/zyinfd
 
 ---
 
