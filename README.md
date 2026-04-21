@@ -4,7 +4,8 @@
 ## 📌 Project Overview
 This project transforms a massive dataset of **2.3 million flight records** into an interactive decision-making tool. 
 By analyzing over **166 million minutes of delay**, the dashboard pinpoints operational inefficiencies, identifies top-performing carriers, and visualizes the "ripple effect" of late-arriving aircraft.
-**Dataset:** https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
+
+* **Dataset:** https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 
 ---
 
