@@ -1,6 +1,6 @@
 # ✈️ 2008 Flights Performance & Delay Analysis
 **A Comprehensive Power BI Data Engineering & Analytics Project**
-**Dashboard video:** Check https://surl.li/zyinfd
+* **Check dashboard video here:** Check https://surl.li/zyinfd
 
 ## 📌 Project Overview
 This project transforms a massive dataset of **2.3 million flight records** into an interactive decision-making tool. 
